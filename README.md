@@ -79,13 +79,13 @@ _More labels will be added in the future as needed._
 The following is a list of our current product SKUs. 
 
 - **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
-- **github team:** GitHub Team
-- **github enterprise:** GitHub Enterprise (Cloud and Server)
-- **github one:** GitHub One (Cloud and Server)
-- **github ae:** GitHub AE (GHAE)
-- **github advanced security:** GitHub Advanced Security (add-on to GHE)
-- **github insights:** GitHub Insights (add-on to GHE)
-- **github learning lab:** GitHub Learning Lab (add-on to GHE)
+- **web3api core:** Core technology of the Web3API Standard
+- **web3api apps:** Apps built around the Web3API standard
+- **web3api apis:** APIs which wrap protocols with the Web3API Standard
+- **web3hub public:** Web3Hub main public portal with basic features.
+- **web3hub apps:** Web3Hub Apps portal
+- **web3hub apis:** Web3Hub APIs portal
+TODO: define other products
 
 ## Disclaimer 
 
