@@ -1,14 +1,16 @@
 # Web3API public roadmap
 
-> Roadmap structure forked from [github's roadmap](https://github.com/github/roadmap). 
-
+```
 TODO:
 - [ ] check license should be creative commons?
 - [ ] check security.md stablecoin and web3api rewards
 - [ ] check code_of_conduct.md contact email
 - [ ] check config.yml
+- [ ] update community links in readme.md
+- [ ] update roadmap repo in readme.md after migrating wo web3-api github org
+```
 
-In this repository, you can find the [official Web3API public product roadmap](https://github.com/rihp/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. You can also participate with a squad to tackle specific issues on the roadmap. Have any questions or comments about items on the roadmap? Join the discussion over on the [Keybase Community Forum](#) or share your feedback via the [Share feedback](airtablelinkhere) page. 
+In this repository, you can find the [official Web3API public product roadmap](https://github.com/rihp/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. You can also participate with a squad to tackle specific issues on the roadmap. Have any questions or comments about items on the roadmap? Join the discussion over on the [Keybase Community Chat](#) or share your feedback via the [Share feedback](airtablelinkhere) page. 
 
 The roadmap repository is for communicating Web3API’s roadmap. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of Web3API products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through this [Share feedback](anotherairtablefeedbackform) page.
 
@@ -93,6 +95,8 @@ The following is a list of our current product SKUs.
 TODO: define other products
 
 ## Disclaimer 
+
+> Roadmap structure forked from [github's roadmap](https://github.com/github/roadmap). 
 
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on this roadmap to make any purchasing decision.
 
