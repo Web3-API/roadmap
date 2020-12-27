@@ -49,28 +49,25 @@ GitHub Enterprise Server has major releases on a quarterly basis, and minor rele
 
 The following is a list of our current product areas:
 
-- **code:** Code experiences (Repositories, Pull Requests, Gists)
-- **planning:** Planning and tracking tools (Issues, Projects)
-- **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
-- **collaboration:** Collaboration features (Pages, Wikis, Discussions)
-- **security & compliance:** Code security and compliance features
-- **admin-server:** Administrative features specific to GitHub Enterprise Server
-- **admin-cloud:** Administrative features specific to GitHub Cloud
-- **communities:** Community and social features
-- **ecosystem:** Ecosystem and API features
+- **code:** Code experiences (The Standard, Repositories, Interfaces)
+- **squads:** Squads, community and social features
+- **deployment:** Deploying custom apps using the Web3API standard
+- **web3ap-client:** Client applications (Desktop, Mobile)
+- **plugins:** Continuous learning and insights features
+- **storage:** Decentralized or Centralized Storage alternatives
 - **learning:** Education and learning features
 - **insights:** Continuous learning and insights features
-- **client-apps:** Client applications (Desktop, Mobile)
+- **security & compliance:** Code security and compliance features
 - **other:** Other features
+
 
 ## Feature
 
 The following is a list of our current features and products, with distinct labels for filtering:
 
-- **actions:** GitHub Actions
-- **docs:** GitHub Docs
-- **packages:** GitHub Packages
-- **pages:** GitHub Pages
+- **apps:** Applications that use Web3APIs
+- **apis:** Web3APIs
+- **docs:** Web3API Docs
 
 _More labels will be added in the future as needed._
 
