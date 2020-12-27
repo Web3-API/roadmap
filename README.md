@@ -4,8 +4,8 @@
 
 TODO:
 - [ ] check license
-- [ ] check security
-- [ ] check code of conduct
+- [ ] check security stablecoin and web3api rewards
+- [ ] check code_of_conduct.md contact email
 - [ ] check config.yml
 
 In this repository, you can find the [official Web3API public product roadmap](https://github.com/rihp/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [Keybase Community Forum](#) or share your feedback via the [Share feedback](airtablelinkhere) page. 
