@@ -1,11 +1,18 @@
 **Assigned Squad**
-This issue has not been assigned yet, [Click here  if you'd like to help solving it](https://github/Web3-API/dao/contribute.md)
+
+|Squad|Point of Contact|
+|-|-|
+|This issue has not been assigned yet, [Click here  if you'd like to help solving it](https://github/Web3-API/dao/contribute.md)|[Builder Name]()|
 
 
 **Summary**
-TODO: The Web3API standard in an Alpha Release
+
+The issue or milestone in  a few words:
 
 **Intended Outcome**
-Primarily for testing and feedback. Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
+
+This issue is important because it will achieve:
 
 **How will it work?**
+
+Make is meassurable; This issue could be solved with the approach below: 
