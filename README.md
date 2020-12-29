@@ -63,7 +63,7 @@ The following is a list of our current product areas:
 - **squads:** Squads, community and social features
 - **deployment:** Deploying custom apps using the Web3API standard
 - **web3ap-client:** Client applications (Desktop, Mobile)
-- **plugins:** Continuous learning and insights features
+- **plugins:** These are additional functions or modules that can be designed and integrated quickly to the Web3API client
 - **storage:** Decentralized or Centralized Storage alternatives
 - **learning:** Education and learning features
 - **insights:** Continuous learning and insights features
