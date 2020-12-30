@@ -2,7 +2,6 @@
 
 ```
 TODO:
-- [ ] check license should be creative commons?
 - [ ] check code_of_conduct.md contact email
 - [ ] update community links in readme.md
 - [ ] update roadmap project board link in readme.md after migrating to web3-api github org
