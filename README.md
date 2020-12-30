@@ -24,7 +24,6 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - One or more **product SKU** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
 
-- One or more **deployment models** (cloud, server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
 
 ## Release phases
 
