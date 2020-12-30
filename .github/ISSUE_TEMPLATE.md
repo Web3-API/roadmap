@@ -1,8 +1,6 @@
 **Assigned Squad**
 
-|Squad|Point of Contact|
-|-|-|
-|This issue has not been assigned yet, [Click here  if you'd like to help solving it](https://github/Web3-API/dao/contribute.md)|[Builder Name]()|
+This issue has not been assigned yet, [Click here  if you'd like to help solving it](https://github/Web3-API/dao/contribute.md)|
 
 
 **Summary**
