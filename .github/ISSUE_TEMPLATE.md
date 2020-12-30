@@ -13,4 +13,4 @@ This issue is important because it will achieve:
 
 **How will it work?**
 
-Make is measurable; This issue could be solved with the approach below: 
+Make it measurable; This issue could be solved with the approach below: 
